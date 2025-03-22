@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -g -rdynamic -Wl,--dependency-file=CMakeFiles/assignment-autotest.dir/link.d "CMakeFiles/assignment-autotest.dir/test/unity_runner.c.o" -o /home/velgor/Documents/Code/LinuxSystemProgramming/assignment-1-esquivelgor/assignment-autotest  Unity/src/libunity.a
